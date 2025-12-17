@@ -23,7 +23,7 @@ repository               : "arnabroy97/arnabroy97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "/images/profile_pic.png"
   name             : "Arnab Roy"
   pronouns         : # example: "she/her"  
   bio              : "Interested in how Physics(Mechanics) and geometry govern pattern formation in living systems"
