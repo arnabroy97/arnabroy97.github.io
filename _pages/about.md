@@ -14,10 +14,10 @@ Broadly, my research interests include:
 - Nonlinear dynamics and pattern formation  
 - Biophysics of cytoskeletal systems  
 
-I am currently pursuing my **PhD in Physics at UC Merced**, where I work with **[your advisor – optional]** in studying emergent behavior in complex active systems.
+I am currently pursuing my **PhD in Physics at UC Merced**, where I am part of the **BioSoft Theory Group** working with **Prof. Kinjal Dasbiswas**. I am interested in soft active matter theory, particularly I am currently working on active mechanical force driven shape change in contractile poroelastic actomyosin gels.
 
-Before this, I completed my **[BSc/MSc or previous degree]** at **[your previous institution]**, working on **[briefly describe your earlier work]**.
+Before this, I was part of the **Theoretical and Physical Biology (TPBG) Group** at **IISER Kolkata** where I worked with **Dr. Dipjyoti Das** on stochastic gene expression. Prior to that I completed my **BS-MS** from **IISER Bhopal**.
 
-Beyond science, I enjoy **[your hobbies]**, exploring creative ideas, and learning new skills.
+Beyond science, I enjoy **reading story books**, watching cricket and football,cooking and trying new food,hiking, watching mystery thriller shows and learning new skills.
 
-Thanks for stopping by — feel free to explore my publications and projects!
+Thanks for stopping by — feel free to connect!
